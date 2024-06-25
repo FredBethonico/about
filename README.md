@@ -1,6 +1,6 @@
 # sobre mim
 
-Estudante de programação.
+Programador Back-End e Analista de Dados
 
 Trabalho em um escritório de uma fábrica pequena no ramo da Indústria Química.
 
