@@ -12,7 +12,7 @@ Utilizo no dia-a-dia: `MySQL`, `VBA`, `Excel` e `Python`.
 **en:**<br>
 Currently, I am pursuing a degree at Estácio in Information Technology Management. I have been working in business administration for 4 years, with extensive experience in the commercial sector and business intelligence. <br><br>
 I also work as a data analyst, directly interacting with the company's database to generate analytical reports of financial and commercial interest for department managers. <br>
-I use on a daily basis: MySQL, VBA, Excel, and Python.
+I use on a daily basis: `MySQL`, `VBA`, `Excel`, and `Python`.
 
 
 ---
