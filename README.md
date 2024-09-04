@@ -35,5 +35,6 @@ I use on a daily basis: `MySQL`, `VBA`, `Excel`, and `Python`.
  ---
 
  ### GitHub highlights
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FredBethonico&layout=compact&bg_color=000&border_color=5602e6&title_color=5602e6&text_color=FFF)  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FredBethonico&repo=GerarNPC_T20RPG_IA&bg_color=000&border_color=5602e6&show_icons=true&icon_color=30A3DC&title_color=5602e6&text_color=FFF)](https://github.com/FredBethonico/GerarNPC_T20RPG_IA)  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FredBethonico&repo=TranslationRO-BR&bg_color=000&border_color=5602e6&show_icons=true&icon_color=30A3DC&title_color=5602e6&text_color=FFF)](https://github.com/FredBethonico/TranslationRO-BR)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FredBethonico&layout=compact&bg_color=000&border_color=5602e6&title_color=5602e6&text_color=FFF) 
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FredBethonico&repo=GerarNPC_T20RPG_IA&bg_color=000&border_color=5602e6&show_icons=true&icon_color=30A3DC&title_color=5602e6&text_color=FFF)](https://github.com/FredBethonico/GerarNPC_T20RPG_IA)  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FredBethonico&repo=TranslationRO-BR&bg_color=000&border_color=5602e6&show_icons=true&icon_color=30A3DC&title_color=5602e6&text_color=FFF)](https://github.com/FredBethonico/TranslationRO-BR)
