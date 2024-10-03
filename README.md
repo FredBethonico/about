@@ -5,12 +5,12 @@
 
 ### About
 **pt:**<br>
-Atualmente, faço graduação na Estácio, no curso de Gestão da Tecnologia da Informação. Trabalho com administração de empresas há 4 anos, tenho vasta experiência com setor comercial e *business inteligence*. <br><br>
+Atualmente, faço graduação na Estácio, no curso de Análise e Desenvolvimento de Sistemas. Trabalho com administração de empresas há 4 anos, tenho vasta experiência com setor comercial e *business inteligence*. <br><br>
 Também trabalho como analista de dados interagindo diretamente com o banco de dados da empresa para gerar relatórios analíticos de interesse financeiro e comercial para os gerentes das áreas. <br>
 Utilizo no dia-a-dia: `MySQL`, `VBA`, `Excel` e `Python`.
 
 **en:**<br>
-Currently, I am pursuing a degree at Estácio in Information Technology Management. I have been working in business administration for 4 years, with extensive experience in the commercial sector and business intelligence. <br><br>
+Currently, I am pursuing a degree at Estácio in System Analisys and Development. I have been working in business administration for 4 years, with extensive experience in the commercial sector and business intelligence. <br><br>
 I also work as a data analyst, directly interacting with the company's database to generate analytical reports of financial and commercial interest for department managers. <br>
 I use on a daily basis: `MySQL`, `VBA`, `Excel`, and `Python`.
 
