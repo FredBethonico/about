@@ -5,9 +5,8 @@
 
 ### About
 **pt:**<br>
-Atualmente, faço graduação na Estácio, no curso de Análise e Desenvolvimento de Sistemas. Trabalho com administração de empresas há 4 anos, tenho vasta experiência com setor comercial e *business inteligence*. <br><br>
-Também trabalho como analista de dados interagindo diretamente com o banco de dados da empresa para gerar relatórios analíticos de interesse financeiro e comercial para os gerentes das áreas. <br>
-Utilizo no dia-a-dia: `MySQL`, `VBA`, `Excel` e `Python`.
+Atualmente, faço graduação na Estácio, no curso de Análise e Desenvolvimento de Sistemas. Trabalho como Analista de Inteligência Comercial na Mart Minas Atacado e Varejo, sendo o responsável pelo setor de Gerenciamento de Categorias, no qual geramos relatórios analíticos e estratégicos sobre o desempenho das categorias de produtos vendidas nas lojas da empresa. <br><br>
+Utilizo no dia-a-dia: `Excel`, `PowerBI`, `VBA`, `DAX` e `Python`.
 
 **en:**<br>
 Currently, I am pursuing a degree at Estácio in System Analisys and Development. I have been working in business administration for 4 years, with extensive experience in the commercial sector and business intelligence. <br><br>
@@ -23,6 +22,7 @@ I use on a daily basis: `MySQL`, `VBA`, `Excel`, and `Python`.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![PowerBI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)
 
 ---
 
@@ -35,6 +35,6 @@ I use on a daily basis: `MySQL`, `VBA`, `Excel`, and `Python`.
  ---
 
  ### GitHub highlights
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FredBethonico&layout=compact&bg_color=000&border_color=5602e6&title_color=5602e6&text_color=FFF) 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FredBethonico&repo=GerarNPC_T20RPG_IA&bg_color=000&border_color=5602e6&show_icons=true&icon_color=30A3DC&title_color=5602e6&text_color=FFF)](https://github.com/FredBethonico/GerarNPC_T20RPG_IA)  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FredBethonico&repo=TranslationRO-BR&bg_color=000&border_color=5602e6&show_icons=true&icon_color=30A3DC&title_color=5602e6&text_color=FFF)](https://github.com/FredBethonico/TranslationRO-BR)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FredBethonico&repo=biblioteca-merak&bg_color=000&border_color=5602e6&show_icons=true&icon_color=30A3DC&title_color=5602e6&text_color=FFF)](https://github.com/FredBethonico/biblioteca-merak) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FredBethonico&repo=GerarNPC_T20RPG_IA&bg_color=000&border_color=5602e6&show_icons=true&icon_color=30A3DC&title_color=5602e6&text_color=FFF)](https://github.com/FredBethonico/GerarNPC_T20RPG_IA)
