@@ -9,9 +9,8 @@ Atualmente, faço graduação na Estácio, no curso de Análise e Desenvolviment
 Utilizo no dia-a-dia: `Excel`, `PowerBI`, `VBA`, `DAX` e `Python`.
 
 **en:**<br>
-Currently, I am pursuing a degree at Estácio in System Analisys and Development. I have been working in business administration for 4 years, with extensive experience in the commercial sector and business intelligence. <br><br>
-I also work as a data analyst, directly interacting with the company's database to generate analytical reports of financial and commercial interest for department managers. <br>
-I use on a daily basis: `MySQL`, `VBA`, `Excel`, and `Python`.
+I am currently pursuing an undergraduate degree in Systems Analysis and Development at Estácio. I work as a Commercial Intelligence Analyst at Mart Minas Atacado e Varejo, leading the Category Management sector. We build analytical and strategic reports to track and optimize product category performance across the company's store network. <br><br>
+Daily stack: `Excel`, `Power BI`, `VBA`, `DAX`, and `Python`.
 
 
 ---
